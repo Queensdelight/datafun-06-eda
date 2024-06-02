@@ -2,8 +2,8 @@
 
 Title: Specification for Project 6 EDA Notebook
 	
- Bukola Adeniyan, 
- June 2nd,2024
+ Bukola Adeniyan
+ June 2nd, 2024
 
  ## Overview
 Project 6 is an opportunity to create my own custom exploratory data analysis (EDA) project using GitHub, 
