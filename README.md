@@ -1,12 +1,12 @@
 # datafun-06-eda
 
-Title: Project 6 EDA Notebook begins
+Title: Project 6 EDA Notebook Begins
 	
- Bukola Adeniyan
+Bukola Adeniyan
  
- June 2nd, 2024
+June 2nd, 2024
 
- ## Overview
+## Overview
 Project 6 is an opportunity to create my own custom exploratory data analysis (EDA) project using GitHub, 
 Git, Jupyter, pandas, Seaborn, and other popular data analytics tools.
 
@@ -15,10 +15,10 @@ Perform and publish a custom EDA project to demonstrate skills with Jupyter, pan
 The notebook should tell a data story and visually present findings clearly and engagingly.
 
 ## Create GitHub Repository
- GitHub Repository: datafun-06-eda
- Documentation: README.md
+GitHub Repository: datafun-06-eda
+Documentation: README.md
 
- ## Clone to VS Code 
+## Clone to VS Code 
 ```
 git clone site_URL
 ```
