@@ -1,6 +1,6 @@
 # datafun-06-eda
 
-Title: Specification for Project 6 EDA Notebook
+Title: Project 6 EDA Notebook begins
 	
  Bukola Adeniyan
  
