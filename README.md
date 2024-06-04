@@ -51,6 +51,12 @@ git commit -m "start a project"
 git push origin main
 ```
 
+# Choose Your Data Set
+I chose one of the data sets and used it to practice all the skills that go into a Python Exploratory Data Analysis project.
+
+# Document Your Data Set
+
+
 ## Source
 This project was built to the following specifications: https://github.com/denisecase/datafun-06-spec
 
